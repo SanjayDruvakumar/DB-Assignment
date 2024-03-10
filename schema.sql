@@ -1,3 +1,4 @@
+3rd answer:
 (Table for storing information about users)
 CREATE TABLE Users (
     UserID INT PRIMARY KEY AUTO_INCREMENT,
